@@ -1,0 +1,64 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/*header li {
+	height:15px;
+	margin-bottom: 6px;
+}*/
+
+header {
+	margin: 65px 25px 0 0;
+}
+
+a.linkedin {
+	background: url(../images/linkedin-white.png) no-repeat 1px;
+	background-size: 15px;
+}
+
+/*@import "{{ site.custom_theme }}";*/
+
+table {
+  width:100%;
+  border-collapse:collapse;
+  border-spacing: 0px;
+  border: none;
+  /*table-layout: fixed;*/
+  background-color: transparent;
+}
+
+th, td {
+  text-align:center;
+  padding:0px 0px;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  background-color: transparent;
+  width: 75%;
+  &:first-child {
+    width: 25%;
+  }
+}
+
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+  padding-right: 5px;
+}
+
+.image-face {
+  display: block;
+  margin-left: auto;
+  margin-right: 15px;
+  float: left;
+  width: 100px;
+  /*border: 3px solid #696969;*/
+  box-shadow: 8px 8px 10px #aaa;
+}
+
+.image-face-wrapper {
+	padding-right: 10px;
+}

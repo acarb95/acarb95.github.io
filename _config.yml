@@ -1,1 +1,7 @@
-theme: jekyll-theme-leap-day
+host: 0.0.0.0
+theme: jekyll-theme-dinky
+title: Amanda Carbonari
+# description: Systems Researcher. Pilot. Amateur Coffee Connoisseur.
+linkedin: https://www.linkedin.com/in/acarbona
+resume: AmandaCarbonariResume.pdf
+show_downloads: true
