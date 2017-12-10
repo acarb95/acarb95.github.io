@@ -1,6 +1,6 @@
 # Welcome! 
 
-![](amanda.jpg){: .image-face}
+![](amanda-small.jpg){: .image-face}
 Hello! I am currently a graduating Masters
 student at the University of British Columbia. I work in the [NSS Lab](http://nss.cs.ubc.ca) under the supervision of 
 [Ivan Beschastnikh](http://www.cs.ubc.ca/~bestchai/). My research interests, 
