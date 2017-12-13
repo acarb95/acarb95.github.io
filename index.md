@@ -27,7 +27,7 @@ trusted third party on the remote device to execute policy and evaluate access.
 <br>
 ![](Blue_Bridge_Label-small.jpg){: .image-right} [**BlueBridge: distributed
 NUMA.**](https://github.com/FRuffy/BlueBridge) Named after the beer which won our lab tasting competition,
-BlueBridge is the realization of distributed NUMA (dNUMA). dNUMA exposes a
+BlueBridge is a network managed distributed memory system. BlueBridge exposes a
 _distributed_ global address space to applications by implementing virtual
 memory in the network. Hosts operate on local memory (the cache) and pages fault
 to remote memory. Implemented in C with raw sockets. Remote pointers are stored
